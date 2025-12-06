@@ -164,20 +164,8 @@ Borrower-Credit-Score-Classification-Using-Datasets-Analysis/
 ### Developed By
 
 - [**Turjo Das Dip**](https://github.com/tuRjoX)
-- **Nusrat Faraezi Ivy** - [GitHub Profile](https://github.com/ivyfaraezi)
-- **Saima Ahmed Tanjila** - [GitHub Profile](https://github.com/Saima2309)
-
-### Contributors
-
-- Project development and implementation
-- Data analysis and visualization
-- Machine learning model development
-
-### Acknowledgments
-
-- AIUB Faculty for guidance and support
-- Course instructors for project requirements
-- R community for excellent packages and documentation
+- [**Nusrat Faraezi Ivy**](https://github.com/ivyfaraezi)
+- [**Saima Ahmed Tanjila**](https://github.com/Saima2309)
 
 ## 📄 License
 
