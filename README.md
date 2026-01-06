@@ -1,4 +1,4 @@
-# Borrower Credit Score Classification Using Datasets Analysis
+# Comprehensive Borrower Credit Score Analysis
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)
